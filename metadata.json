@@ -1,0 +1,6 @@
+{
+  "name": "교내 중고장터",
+  "description": "우리 학교 학생들을 위한 간편한 중고 물품 거래 웹페이지",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
